@@ -1,12 +1,15 @@
 recipe Book
 
 Cake Recipe
+preheat oven to 350 degrees
 1) add milk
 2) add 2 eggs
 3) flour
 4) add sugar
 5) add salt
-6) add baking soda
+6) mix all
+7) add to pan
+8) put in oven
 
 Soup Recipe:
 1) add water
@@ -16,9 +19,8 @@ Soup Recipe:
 5) add boullion
 
 Meat dish:
-1
-2
-3
-4
-5
-
+1) defat meat cuts
+2) cut into cutlets
+3) add spices
+4) heat pan with oil
+5) cook meat to medium rare 
