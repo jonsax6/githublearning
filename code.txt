@@ -8,10 +8,10 @@ Cake Recipe
 5) add salt
 
 Soup Recipe:
-1
-2
-3
-4
+1) add water
+2) add salt
+3) add onions
+4) add chicken
 
 Meat dish:
 1
