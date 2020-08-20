@@ -1,11 +1,15 @@
 recipe Book
 
 Cake Recipe
+preheat oven to 350 degrees
 1) add milk
 2) add 2 eggs
 3) flour
 4) add sugar
 5) add salt
+6) mix all
+7) add to pan
+8) put in oven
 
 Soup Recipe:
 1
