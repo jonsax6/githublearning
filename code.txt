@@ -6,12 +6,14 @@ Cake Recipe
 3) flour
 4) add sugar
 5) add salt
+6) add baking soda
 
 Soup Recipe:
 1) add water
 2) add salt
 3) add onions
 4) add chicken
+5) add boullion
 
 Meat dish:
 1
