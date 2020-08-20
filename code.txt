@@ -18,9 +18,8 @@ Soup Recipe:
 4) add chicken
 
 Meat dish:
-1
-2
-3
-4
-5
-
+1) defat meat cuts
+2) cut into cutlets
+3) add spices
+4) heat pan with oil
+5) cook meat to medium rare 
