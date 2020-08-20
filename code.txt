@@ -1,7 +1,5 @@
 recipe
 
 1) add milk
-2) add 2 eggs
+2) add eggs
 3) flour
-4) add sugar
-5) add salt
